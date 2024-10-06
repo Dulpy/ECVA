@@ -69,7 +69,7 @@ For each video response, you need to organize it into the following format:
 
 #### 2. Evaluate your results
 
-Prepare the model's answers and our benchmark answers, then use the script [here](eval_traditional/) to score them with GPT assistent.Because GPT will be used to assist in the evaluation, you will need to fill in your own key in the [relevant configuration file](AnomEval/evaluating_system_v2/config.py)
+Prepare the model's answers and our benchmark answers, then use the script [here](AnomEval\evaluating_system_v2) to score them with GPT assistent.Because GPT will be used to assist in the evaluation, you will need to fill in your own key in the [relevant configuration file](AnomEval\evaluating_system_v2\config.py)
 
 ### Evaluate your results on traditional mertic
 
