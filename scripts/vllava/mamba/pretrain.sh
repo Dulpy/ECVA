@@ -30,16 +30,16 @@ GRADIENT_ACCUMULATION_STEPS=$[$GLOBAL_BATCH_SIZE/($WORLD_SIZE*$NPROC_PER_NODE*$L
 export TRANSFORMERS_OFFLINE=1
 export WANDB_PROJECT=mamba_pretrain
 RUN_NAME=run_name
-DATA_DIR=../datasets/pretraining/
-OUTP_DIR=../work_dirs
+DATA_DIR=ECVA/datasets/videosft
+OUTP_DIR=ECVA/work_dirs
 
 CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 torchrun --nnodes $WORLD_SIZE \
     --nproc_per_node $NPROC_PER_NODE  \
     --master_addr=$MASTER_ADDR \
     --master_port=$MASTER_PORT \
     --node_rank $RANK \
-    ../MLLM/train.py \
-    --deepspeed ../zero2.json \
+    ECVA/AnomShield/train.py \
+    --deepspeed ECVA/scripts/zero2.json \
     --version plain \
     --vision_tower 'the path of clip-vit-large-patch14' \
     --mm_projector_type mamba_scan \

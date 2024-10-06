@@ -8,9 +8,6 @@ from tqdm import tqdm
 from transformers import MistralForCausalLM, AutoTokenizer
 
 os.environ['CUDA_VISIBLE_DEVICES'] = '6'
-# ckpt_path = '/data/vllm/ckpt/AI-ModelScope/Mistral-7B-Instruct-v0___2'
-# model = MistralForCausalLM.from_pretrained(ckpt_path, torch_dtype=torch.bfloat16).to('cuda:6')
-# tokenizer = AutoTokenizer.from_pretrained(ckpt_path)
 
 
 PROMPT = """
@@ -55,23 +52,6 @@ def get_res(res):
         return res
     except:
         return [1,2,3,4,5]
-
-
-# def get_idx(captions):
-#     query = CASE.format(captions[0], captions[1], captions[2], captions[3])
-    
-#     messages = [
-#         {"role": "user", "content":PROMPT + query}
-#     ]
-
-#     encodeds = tokenizer.apply_chat_template(messages, return_tensors="pt")
-
-#     model_inputs = encodeds.to(model.device)
-#     generated_ids = model.generate(model_inputs, max_new_tokens=2000, do_sample=False)
-#     decoded = tokenizer.batch_decode(generated_ids)
-#     return decoded[0]
-
-
 
 
 

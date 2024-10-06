@@ -1,0 +1,448 @@
+{
+    "matching_score": [
+        {
+            "index": 0,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 1,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 2,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 3,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 4,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 5,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 6,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 7,
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.6666666666666666,
+            "sum_matching_score": 2,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 8,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 9,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 10,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 11,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 12,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 13,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 14,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 15,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 16,
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.6666666666666666,
+            "sum_matching_score": 2,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 17,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 18,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 19,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 20,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 21,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 22,
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 23,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 24,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 25,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 26,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 27,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 28,
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.6666666666666666,
+            "sum_matching_score": 2,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 29,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 30,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 31,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 32,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 33,
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 34,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 35,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 36,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 37,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 38,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 39,
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.6666666666666666,
+            "sum_matching_score": 2,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 40,
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 41,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 42,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 43,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 44,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 45,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 46,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 47,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        },
+        {
+            "index": 48,
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1"
+        }
+    ],
+    "logic_score": [],
+    "key_information_score": [],
+    "reasoning_ability_score": []
+}

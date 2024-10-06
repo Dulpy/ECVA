@@ -29,25 +29,25 @@ GRADIENT_ACCUMULATION_STEPS=$[$GLOBAL_BATCH_SIZE/($WORLD_SIZE*$NPROC_PER_NODE*$L
 # Log Arguments
 export TRANSFORMERS_OFFLINE=1
 export WANDB_PROJECT=mamba_sft
-RUN_NAME=mamba_sft_929
-DATA_DIR=/data/vllm/datasets/VideoGPT-plus_Training_Dataset/instruction_tuning
-OUTP_DIR=/data/vllm/VideoLLaMA2-main/work_dirs
+RUN_NAME=mamba_sft
+DATA_DIR=ECVA/datasets/videosft
+OUTP_DIR=ECVA/work_dirs
 
 CUDA_VISIBLE_DEVICES=0,1,2,3,4,5 torchrun --nnodes $WORLD_SIZE \
     --nproc_per_node $NPROC_PER_NODE \
     --master_addr=$MASTER_ADDR \
     --master_port=$MASTER_PORT \
     --node_rank $RANK \
-    /data/vllm/VideoLLaMA2-main/videollama2/train_flash_attn.py \
-    --deepspeed /data/vllm/VideoLLaMA2-main/scripts/zero2.json \
+    ECVA/AnomShield/train.py \
+    --deepspeed ECVA/scripts/zero2.json \
     --lora_enable True --lora_r 256 --lora_alpha 512 --mm_projector_lr 2e-5 \
     --version mistral \
-    --vision_tower /data/vllm/ckpt/AI-ModelScope/clip-vit-large-patch14 \
+    --vision_tower clip-vit-large-patch14 \
     --mm_projector_type mamba_scan \
-    --model_name_or_path /data/vllm/ckpt/AI-ModelScope/Mistral-7B-Instruct-v0___2 \
-    --data_path   ${DATA_DIR}/video_sft_638k.json \
+    --model_name_or_path Mistral-7B-Instruct-v0___2 \
+    --data_path   ${DATA_DIR}/sft_data.json \
     --data_folder ${DATA_DIR}/ \
-    --pretrain_mm_mlp_adapter /data/vllm/VideoLLaMA2-main/work_dirs/mamba_pretrain/pretrain_926/mm_projector.bin \
+    --pretrain_mm_mlp_adapter "Pre-trained mamba&mlp weights" \
     --mm_vision_select_layer -2 \
     --mm_use_im_start_end False \
     --mm_use_im_patch_token False \
@@ -74,4 +74,4 @@ CUDA_VISIBLE_DEVICES=0,1,2,3,4,5 torchrun --nnodes $WORLD_SIZE \
     --gradient_checkpointing False \
     --dataloader_num_workers 8 \
     --report_to tensorboard \
-    --run_name $RUN_NAME > mamba_sft_929.log
+    --run_name $RUN_NAME > mamba_sft.log

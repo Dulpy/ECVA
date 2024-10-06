@@ -1,0 +1,651 @@
+{
+    "matching_score": [
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1",
+            "video_id": 0
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 1
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 2
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 3
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 4
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 5
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 6
+        },
+        {
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1",
+            "video_id": 7
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 8
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1",
+            "video_id": 9
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 10
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 11
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 12
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 13
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1",
+            "video_id": 14
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 15
+        },
+        {
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.6666666666666666,
+            "sum_matching_score": 2,
+            "note": "each score is 0 or 1",
+            "video_id": 16
+        },
+        {
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.6666666666666666,
+            "sum_matching_score": 2,
+            "note": "each score is 0 or 1",
+            "video_id": 16
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.6666666666666666,
+            "sum_matching_score": 2,
+            "note": "each score is 0 or 1",
+            "video_id": 16
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 17
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1",
+            "video_id": 18
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1",
+            "video_id": 19
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 20
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 21
+        },
+        {
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1",
+            "video_id": 22
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1",
+            "video_id": 23
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 24
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 25
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 26
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 27
+        },
+        {
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 1.0,
+            "sum_matching_score": 3,
+            "note": "each score is 0 or 1",
+            "video_id": 28
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 29
+        },
+        {
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1",
+            "video_id": 30
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 31
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 32
+        },
+        {
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.6666666666666666,
+            "sum_matching_score": 2,
+            "note": "each score is 0 or 1",
+            "video_id": 33
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1",
+            "video_id": 34
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 35
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1",
+            "video_id": 36
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 37
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 38
+        },
+        {
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.6666666666666666,
+            "sum_matching_score": 2,
+            "note": "each score is 0 or 1",
+            "video_id": 39
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 40
+        },
+        {
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.6666666666666666,
+            "sum_matching_score": 2,
+            "note": "each score is 0 or 1",
+            "video_id": 41
+        },
+        {
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 1.0,
+            "sum_matching_score": 3,
+            "note": "each score is 0 or 1",
+            "video_id": 42
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 43
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 44
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1",
+            "video_id": 45
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 46
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 47
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 48
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.6666666666666666,
+            "sum_matching_score": 2,
+            "note": "each score is 0 or 1",
+            "video_id": 49
+        },
+        {
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.6666666666666666,
+            "sum_matching_score": 2,
+            "note": "each score is 0 or 1",
+            "video_id": 50
+        },
+        {
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1",
+            "video_id": 51
+        },
+        {
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.6666666666666666,
+            "sum_matching_score": 2,
+            "note": "each score is 0 or 1",
+            "video_id": 52
+        },
+        {
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1",
+            "video_id": 53
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 54
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 55
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 56
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 57
+        },
+        {
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 1,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 1.0,
+            "sum_matching_score": 3,
+            "note": "each score is 0 or 1",
+            "video_id": 58
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1",
+            "video_id": 59
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 60
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 61
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 62
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 63
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 64
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 65
+        },
+        {
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.3333333333333333,
+            "sum_matching_score": 1,
+            "note": "each score is 0 or 1",
+            "video_id": 67
+        },
+        {
+            "text_matching_score_for_reason": 0,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 0,
+            "average_matching_score": 0.0,
+            "sum_matching_score": 0,
+            "note": "each score is 0 or 1",
+            "video_id": 68
+        },
+        {
+            "text_matching_score_for_reason": 1,
+            "text_matching_score_for_description": 0,
+            "text_matching_score_for_outcome": 1,
+            "average_matching_score": 0.6666666666666666,
+            "sum_matching_score": 2,
+            "note": "each score is 0 or 1",
+            "video_id": 69
+        }
+    ],
+    "logic_score": [],
+    "key_information_score": [],
+    "reasoning_ability_score": [],
+    "current_step": "matching_score",
+    "index_of_matching_score": 69,
+    "index_of_logic_score": 0,
+    "index_of_key_information_score": 0,
+    "index_of_reasoning_ability_score": 0
+}
