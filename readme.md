@@ -166,3 +166,17 @@ run inference.ipynb on the jupyter environment
 The codebase of **ECVA** is adapted from [**VideoLLaMA2**](https://github.com/DAMO-NLP-SG/VideoLLaMA2). We are grateful for the foundational work done by the VideoLLaMA2 team, which has significantly contributed to the development of this project.
 
 ## License
+
+## Cite
+If you find our work useful for your research, please consider citing.
+
+```bash
+
+@article{du2024exploring,
+  title={Exploring What Why and How: A Multifaceted Benchmark for Causation Understanding of Video Anomaly},
+  author={Du, Hang and Nan, Guoshun and Qian, Jiawen and Wu, Wangchenhui and Deng, Wendi and Mu, Hanqing and Chen, Zhenyan and Mao, Pengxuan and Tao, Xiaofeng and Liu, Jun},
+  journal={arXiv preprint arXiv:2412.07183},
+  year={2024}
+}
+
+```
